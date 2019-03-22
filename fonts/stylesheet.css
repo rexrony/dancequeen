@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Timeless';
+    src: url('Timeless-Bold.woff2') format('woff2'),
+        url('Timeless-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Timeless';
+    src: url('Timeless-Normal.woff2') format('woff2'),
+        url('Timeless-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
